@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-26T14:01:00Z","service":"checkout-api","level":"info","message":"release started","region":"us-east"}
+{"timestamp":"2026-10-26T14:02:12Z","service":"payments","level":"error","message":"upstream unavailable","status_code":503,"request_id":"req-17","region":"us-east","affected_users":1400}
+{"timestamp":"2026-10-26T14:03:10Z","service":"checkout-api","level":"error","message":"payment dependency timeout","status_code":502,"request_id":"req-18","region":"us-east","affected_users":1400}
