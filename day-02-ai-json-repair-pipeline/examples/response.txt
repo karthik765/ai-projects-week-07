@@ -1,0 +1,4 @@
+Here is the requested result:
+```json
+{"answer": "Use the cache", "score": 0.92,}
+```
